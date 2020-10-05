@@ -4,7 +4,7 @@ Welcome to Helsingborg dev guidelines.
 ## Table of contents
 
 * [Introduction](./introduction)
-    *  [New developer](./introduction/developer)
+    *  [New developer](./introduction/new-developer.md)
 * [Workflow](./workflow)
     * [Branching strategy](./workflow/branching-strategy.md)
     * [Code review](./workflow/code-review.md)
@@ -25,11 +25,11 @@ Welcome to Helsingborg dev guidelines.
         * [Docker](./development/tools/docker.md)
         * [Editors](./development/tools/editors.md)
         * [git](./development/tools/git.md)
-        * [phpcs](./development/tools/phpcs.md)
         * [Linters](./development/tools/linters)
             * [ESLint](./development/tools/linters/eslint)
                 * [Javascript](./development/tools/linters/eslint/javascript.md)
                 * [Typescript](./development/tools/linters/eslint/typescript.md)
+            * [phpcs](./development/tools/linters/phpcs.md)
     * [Commit guidelines](./development/commit-guidelines.md)
     * [Debugging](./development/debugging.md)
     * [Versioning](./development/versioning.md)
